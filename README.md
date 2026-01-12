@@ -1,4 +1,4 @@
-# Multistick Temperature Reader
+# MultiTstick Temperature Reader
 
 Reads multi-stick temperature log files and returns a calibrated
 xarray Dataset with dimensions:
